@@ -43,7 +43,7 @@ You can reach support via email at support@example.com.
 
 ## 📸 Screenshots
 
-![Prompt and Response Output](faq-bot-watsonx/assets/screenshots/project-summary.png)
+![Prompt and Response Output](assets\screenshots\project-summary.png)
 
 - Prompt input (simulated)
 - Sample outputs
